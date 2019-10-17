@@ -28,17 +28,7 @@ public class PageAuthentication {
 	
 	
 	
-	
-	
-	
-	
 
-	
-	
-	
-	
-	
-	
 	
 	
 	
