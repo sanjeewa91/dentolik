@@ -1,0 +1,98 @@
+17 Oct 2019 11:46:54  INFO logger - Running login test
+17 Oct 2019 11:46:54  INFO logger - Verified login
+17 Oct 2019 12:02:43  INFO logger - Running login test
+17 Oct 2019 12:03:56  INFO logger - Running login test
+17 Oct 2019 12:07:38  INFO logger - Running login test
+17 Oct 2019 12:07:38  INFO logger - Verified login
+17 Oct 2019 12:09:23  INFO logger - Running login test
+17 Oct 2019 12:09:23  INFO logger - Verified login
+17 Oct 2019 12:38:44  INFO logger - Running login test
+17 Oct 2019 12:38:45  INFO logger - Verified login
+17 Oct 2019 12:39:43  INFO logger - Running login test
+17 Oct 2019 12:39:43  INFO logger - Verified login
+17 Oct 2019 12:41:22  INFO logger - Running login test
+17 Oct 2019 12:41:22  INFO logger - Verified login
+17 Oct 2019 12:43:53  INFO logger - Running login test
+17 Oct 2019 12:43:54  INFO logger - Verified login
+17 Oct 2019 12:44:58  INFO logger - Running login test
+17 Oct 2019 12:44:59  INFO logger - Verified login
+17 Oct 2019 12:46:18  INFO logger - Running login test
+17 Oct 2019 12:46:19  INFO logger - Verified login
+17 Oct 2019 13:17:31  INFO logger - Running login test
+17 Oct 2019 13:17:31  INFO logger - Verified login
+17 Oct 2019 13:18:22  INFO logger - Running login test
+17 Oct 2019 13:18:23  INFO logger - Verified login
+17 Oct 2019 13:19:32  INFO logger - Running login test
+17 Oct 2019 13:19:33  INFO logger - Verified login
+17 Oct 2019 13:22:22  INFO logger - Running login test
+17 Oct 2019 13:22:23  INFO logger - Verified login
+17 Oct 2019 13:25:12  INFO logger - Running login test
+17 Oct 2019 13:25:12  INFO logger - Verified login
+17 Oct 2019 13:28:35  INFO logger - Running login test
+17 Oct 2019 13:28:35  INFO logger - Verified login
+17 Oct 2019 13:32:53  INFO logger - Running login test
+17 Oct 2019 13:32:54  INFO logger - Verified login
+17 Oct 2019 13:36:02  INFO logger - Running login test
+17 Oct 2019 13:36:02  INFO logger - Verified login
+17 Oct 2019 13:45:16  INFO logger - Running login test
+17 Oct 2019 13:45:16  INFO logger - Verified login
+17 Oct 2019 13:45:16  INFO logger - Running login test
+17 Oct 2019 13:46:59  INFO logger - Running login test
+17 Oct 2019 13:46:59  INFO logger - Verified login
+17 Oct 2019 13:50:51  INFO logger - Running Login Test
+17 Oct 2019 13:50:51  INFO logger - Verified Login
+17 Oct 2019 13:50:51  INFO logger - Running Login Test
+17 Oct 2019 13:51:12  INFO logger - Running Login Test
+17 Oct 2019 14:02:40  INFO logger - Running Login Test
+17 Oct 2019 14:02:40  INFO logger - Verified Login
+17 Oct 2019 14:03:00  INFO logger - Running Authentication
+17 Oct 2019 14:41:10  INFO logger - Running Login Test
+17 Oct 2019 14:41:10  INFO logger - Verified Login
+17 Oct 2019 14:41:30  INFO logger - Running Authentication
+17 Oct 2019 14:43:33  INFO logger - Running Login Test
+17 Oct 2019 14:43:34  INFO logger - Verified Login
+17 Oct 2019 14:43:54  INFO logger - Running Authentication
+17 Oct 2019 14:45:25  INFO logger - Running Login Test
+17 Oct 2019 14:45:30  INFO logger - Verified Login
+17 Oct 2019 14:45:55  INFO logger - Running Authentication
+17 Oct 2019 14:51:18  INFO logger - Running Login Test
+17 Oct 2019 14:51:18  INFO logger - Verified Login
+17 Oct 2019 14:51:38  INFO logger - Running Authentication
+17 Oct 2019 14:59:27  INFO logger - Running Login Test
+17 Oct 2019 14:59:28  INFO logger - Verified Login
+17 Oct 2019 14:59:48  INFO logger - Running Authentication
+17 Oct 2019 15:16:52  INFO logger - Running Login Test
+17 Oct 2019 15:16:52  INFO logger - Verified Login
+17 Oct 2019 15:17:12  INFO logger - Running Authentication
+17 Oct 2019 15:35:49  INFO logger - Running Login Test
+17 Oct 2019 15:35:49  INFO logger - Verified Login
+17 Oct 2019 15:36:09  INFO logger - Running Authentication
+17 Oct 2019 15:44:00  INFO logger - Shutting down driver
+17 Oct 2019 15:44:21  INFO logger - Shutting down driver
+17 Oct 2019 15:45:03  INFO logger - Running Login Test
+17 Oct 2019 15:45:04  INFO logger - Verified Login
+17 Oct 2019 15:45:05  INFO logger - Running Authentication
+17 Oct 2019 15:45:07  INFO logger - Shutting down driver
+17 Oct 2019 15:45:34  INFO logger - Shutting down driver
+17 Oct 2019 15:45:59  INFO logger - Running Login Test
+17 Oct 2019 15:46:00  INFO logger - Verified Login
+17 Oct 2019 15:46:01  INFO logger - Running Authentication
+17 Oct 2019 15:46:03  INFO logger - Shutting down driver
+17 Oct 2019 15:46:52  INFO logger - Shutting down driver
+17 Oct 2019 15:47:10  INFO logger - Running Login Test
+17 Oct 2019 15:47:11  INFO logger - Verified Login
+17 Oct 2019 15:47:13  INFO logger - Running Authentication
+17 Oct 2019 15:47:14  INFO logger - Shutting down driver
+17 Oct 2019 15:47:46  INFO logger - Shutting down driver
+17 Oct 2019 15:48:01  INFO logger - Shutting down driver
+17 Oct 2019 15:48:41  INFO logger - Running login test
+17 Oct 2019 15:48:41  INFO logger - Shutting down driver
+17 Oct 2019 15:49:00  INFO logger - Running Login Test
+17 Oct 2019 15:49:00  INFO logger - Verified Login
+17 Oct 2019 15:49:00  INFO logger - Shutting down driver
+17 Oct 2019 15:49:58  INFO logger - Running Login Test
+17 Oct 2019 15:49:58  INFO logger - Verified Login
+17 Oct 2019 15:49:58  INFO logger - Shutting down driver
+17 Oct 2019 15:51:13  INFO logger - Running Login Test
+17 Oct 2019 15:51:14  INFO logger - Verified Login
+17 Oct 2019 15:51:14  INFO logger - Shutting down driver
